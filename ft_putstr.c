@@ -10,4 +10,5 @@ char	ft_putstr(char *str)
 		ft_putchar(str[i]);
 		i++;
 	}
+	return (str[i]);
 }
