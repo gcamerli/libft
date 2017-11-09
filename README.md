@@ -29,7 +29,6 @@ C functions library allowed for 42 projects.
 | **ft_strstr**   |   |
 | **ft_strnstr**  |   |
 | **ft_strcmp**   |   |
-| **ft_strnstr**  |   |
 | **ft_strncmp**  |   |
 | **ft_atoi**     |   |
 | **ft_isalpha**  |   |
@@ -38,7 +37,7 @@ C functions library allowed for 42 projects.
 | **ft_isascii**  |   |
 | **ft_isprint**  |   |
 | **ft_toupper**  |   |
-| **ft_tolowe**   |   |
+| **ft_tolower**  |   |
 
 ![Part 2](images/part_2.png)
 
