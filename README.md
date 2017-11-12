@@ -8,8 +8,8 @@ C functions library allowed for 42 projects.
 
 ![Part 1](images/part_1.png)
 
-| Function        |        Status       |
-|-----------------|---------------------|
+| Function        |        Status      |
+|-----------------|--------------------|
 | **ft_memset**   |   |
 | **ft_bzero**    |   |
 | **ft_memcpy**   |   |
@@ -17,27 +17,27 @@ C functions library allowed for 42 projects.
 | **ft_memmove**  |   |
 | **ft_memchr**   |   |
 | **ft_memcmp**   |   |
-| **ft_strlen**   |   |
-| **ft_strdup**   |   |
-| **ft_strcpy**   |   |
-| **ft_strncpy**  |   |
-| **ft_strcat**   |   |
-| **ft_strncat**  |   |
-| **ft_strlcat**  |   |
+| **ft_strlen**   | :white_check_mark: |
+| **ft_strdup**   | :white_check_mark: |
+| **ft_strcpy**   | :white_check_mark: |
+| **ft_strncpy**  | :white_check_mark: |
+| **ft_strcat**   | :white_check_mark: |
+| **ft_strncat**  | :white_check_mark: |
+| **ft_strlcat**  | :white_check_mark: |
 | **ft_strchr**   |   |
 | **ft_strrchr**  |   |
 | **ft_strstr**   |   |
 | **ft_strnstr**  |   |
-| **ft_strcmp**   |   |
-| **ft_strncmp**  |   |
-| **ft_atoi**     |   |
-| **ft_isalpha**  |   |
-| **ft_isdigit**  |   |
-| **ft_isalnum**  |   |
-| **ft_isascii**  |   |
-| **ft_isprint**  |   |
-| **ft_toupper**  |   |
-| **ft_tolower**  |   |
+| **ft_strcmp**   | :white_check_mark: |
+| **ft_strncmp**  | :white_check_mark: |
+| **ft_atoi**     | :white_check_mark: |
+| **ft_isalpha**  | :white_check_mark: |
+| **ft_isdigit**  | :white_check_mark: |
+| **ft_isalnum**  | :white_check_mark: |
+| **ft_isascii**  | :white_check_mark: |
+| **ft_isprint**  | :white_check_mark: |
+| **ft_toupper**  | :white_check_mark: |
+| **ft_tolower**  | :white_check_mark: |
 
 ![Part 2](images/part_2.png)
 
@@ -59,8 +59,8 @@ C functions library allowed for 42 projects.
 | **ft_strtrim**    |   |
 | **ft_strsplit**   |   |
 | **ft_itoa**       |   |
-| **ft_putchar**    |   |
-| **ft_putstr**     |   |
+| **ft_putchar**    | :white_check_mark: |
+| **ft_putstr**     | :white_check_mark: |
 | **ft_putendl**    |   |
 | **ft_putnbr**     |   |
 | **ft_putchar_fd** |   |
