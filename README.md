@@ -24,9 +24,9 @@ C functions library allowed for 42 projects.
 | **ft_strcat**   | :white_check_mark: |
 | **ft_strncat**  | :white_check_mark: |
 | **ft_strlcat**  | :white_check_mark: |
-| **ft_strchr**   |   |
+| **ft_strchr**   | :white_check_mark: |
 | **ft_strrchr**  |   |
-| **ft_strstr**   |   |
+| **ft_strstr**   | :white_check_mark: |
 | **ft_strnstr**  |   |
 | **ft_strcmp**   | :white_check_mark: |
 | **ft_strncmp**  | :white_check_mark: |
@@ -47,7 +47,7 @@ C functions library allowed for 42 projects.
 | **ft_memdel**     |   |
 | **ft_strnew**     |   |
 | **ft_strdel**     |   |
-| **ft_strclr**     |   |
+| **ft_strclr**     | :white_check_mark: |
 | **ft_striter**    |   |
 | **ft_striteri**   |   |
 | **ft_strmap**     |   |
@@ -61,12 +61,12 @@ C functions library allowed for 42 projects.
 | **ft_itoa**       |   |
 | **ft_putchar**    | :white_check_mark: |
 | **ft_putstr**     | :white_check_mark: |
-| **ft_putendl**    |   |
-| **ft_putnbr**     |   |
-| **ft_putchar_fd** |   |
-| **ft_putstr_fd**  |   |
-| **ft_putendl_fd** |   |
-| **ft_putnbr_fd**  |   |
+| **ft_putendl**    | :white_check_mark: |
+| **ft_putnbr**     | :white_check_mark: |
+| **ft_putchar_fd** | :white_check_mark: |
+| **ft_putstr_fd**  | :white_check_mark: |
+| **ft_putendl_fd** | :white_check_mark: |
+| **ft_putnbr_fd**  | :white_check_mark: |
 
 ![Bonus](images/bonus.png)
 
