@@ -10,13 +10,13 @@ C functions library allowed for 42 projects.
 
 | Function        |        Status      |
 |-----------------|--------------------|
-| **ft_memset**   |   |
-| **ft_bzero**    |   |
-| **ft_memcpy**   |   |
+| **ft_memset**   | :white_check_mark: |
+| **ft_bzero**    | :white_check_mark: |
+| **ft_memcpy**   | :white_check_mark: |
 | **ft_memccpy**  |   |
 | **ft_memmove**  |   |
-| **ft_memchr**   |   |
-| **ft_memcmp**   |   |
+| **ft_memchr**   | :white_check_mark: |
+| **ft_memcmp**   | :white_check_mark: |
 | **ft_strlen**   | :white_check_mark: |
 | **ft_strdup**   | :white_check_mark: |
 | **ft_strcpy**   | :white_check_mark: |
