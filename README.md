@@ -25,9 +25,9 @@ C functions library allowed for 42 projects.
 | **ft_strncat**  | :white_check_mark: |
 | **ft_strlcat**  | :white_check_mark: |
 | **ft_strchr**   | :white_check_mark: |
-| **ft_strrchr**  |   |
+| **ft_strrchr**  | :white_check_mark: |
 | **ft_strstr**   | :white_check_mark: |
-| **ft_strnstr**  |   |
+| **ft_strnstr**  | :white_check_mark: |
 | **ft_strcmp**   | :white_check_mark: |
 | **ft_strncmp**  | :white_check_mark: |
 | **ft_atoi**     | :white_check_mark: |
