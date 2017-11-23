@@ -59,25 +59,25 @@ C functions library allowed for 42 projects.
 | **ft_strtrim**    |   |
 | **ft_strsplit**   |   |
 | **ft_itoa**       |   |
-| **ft_putchar**    | :white_check_mark: |
-| **ft_putstr**     | :white_check_mark: |
-| **ft_putendl**    | :white_check_mark: |
-| **ft_putnbr**     | :white_check_mark: |
-| **ft_putchar_fd** | :white_check_mark: |
-| **ft_putstr_fd**  | :white_check_mark: |
-| **ft_putendl_fd** | :white_check_mark: |
-| **ft_putnbr_fd**  | :white_check_mark: |
+| **ft_putchar**    | :white_check_mark:  |
+| **ft_putstr**     | :white_check_mark:  |
+| **ft_putendl**    | :white_check_mark:  |
+| **ft_putnbr**     | :white_check_mark:  |
+| **ft_putchar_fd** | :white_check_mark:  |
+| **ft_putstr_fd**  | :white_check_mark:  |
+| **ft_putendl_fd** | :white_check_mark:  |
+| **ft_putnbr_fd**  | :white_check_mark:  |
 
 ![Bonus](images/bonus.png)
 
-| Function            |        Status       |
-|---------------------|---------------------|
-| **ft_lstnew**       |   |
-| **ft_lstdelone**    |   |
-| **ft_lstdel**       |   |
-| **ft_lstadd**       |   |
-| **ft_lstiter**      |   |
-| **ft_lstmap**       |   |
+| Function          |        Status       |
+|-------------------|---------------------|
+| **ft_lstnew**     |   |
+| **ft_lstdelone**  |   |
+| **ft_lstdel**     |   |
+| **ft_lstadd**     |   |
+| **ft_lstiter**    |   |
+| **ft_lstmap**     |   |
 
 ### **CC License**
 
