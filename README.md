@@ -43,18 +43,18 @@ C functions library allowed for 42 projects.
 
 | Function          |        Status       |
 |-------------------|---------------------|
-| **ft_memalloc**   |   |
-| **ft_memdel**     |   |
-| **ft_strnew**     |   |
-| **ft_strdel**     |   |
-| **ft_strclr**     | :white_check_mark: |
-| **ft_striter**    |   |
-| **ft_striteri**   |   |
-| **ft_strmap**     |   |
-| **ft_strmapi**    |   |
-| **ft_strequ**     |   |
-| **ft_strnequ**    |   |
-| **ft_strsub**     |   |
+| **ft_memalloc**   | :white_check_mark:  |
+| **ft_memdel**     | :white_check_mark:  |
+| **ft_strnew**     | :white_check_mark:  |
+| **ft_strdel**     | :white_check_mark:  |
+| **ft_strclr**     | :white_check_mark:  |
+| **ft_striter**    | :white_check_mark:  |
+| **ft_striteri**   | :white_check_mark:  |
+| **ft_strmap**     | :white_check_mark:  |
+| **ft_strmapi**    | :white_check_mark:  |
+| **ft_strequ**     | :white_check_mark:  |
+| **ft_strnequ**    | :white_check_mark:  |
+| **ft_strsub**     | :white_check_mark:  |
 | **ft_strjoin**    |   |
 | **ft_strtrim**    |   |
 | **ft_strsplit**   |   |
