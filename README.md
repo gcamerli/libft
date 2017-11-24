@@ -55,8 +55,8 @@ C functions library allowed for 42 projects.
 | **ft_strequ**     | :white_check_mark:  |
 | **ft_strnequ**    | :white_check_mark:  |
 | **ft_strsub**     | :white_check_mark:  |
-| **ft_strjoin**    |   |
-| **ft_strtrim**    |   |
+| **ft_strjoin**    | :white_check_mark:  |
+| **ft_strtrim**    | :white_check_mark:  |
 | **ft_strsplit**   |   |
 | **ft_itoa**       |   |
 | **ft_putchar**    | :white_check_mark:  |
@@ -72,12 +72,12 @@ C functions library allowed for 42 projects.
 
 | Function          |        Status       |
 |-------------------|---------------------|
-| **ft_lstnew**     |   |
-| **ft_lstdelone**  |   |
-| **ft_lstdel**     |   |
-| **ft_lstadd**     |   |
-| **ft_lstiter**    |   |
-| **ft_lstmap**     |   |
+| **ft_lstnew**     |  :white_check_mark: |
+| **ft_lstdelone**  |  :white_check_mark: |
+| **ft_lstdel**     |  :white_check_mark: |
+| **ft_lstadd**     |  :white_check_mark: |
+| **ft_lstiter**    |  :white_check_mark: |
+| **ft_lstmap**     |  :white_check_mark: |
 
 ### **CC License**
 
