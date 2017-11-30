@@ -57,8 +57,8 @@ C functions library allowed for 42 projects.
 | **ft_strsub**     | :white_check_mark:  |
 | **ft_strjoin**    | :white_check_mark:  |
 | **ft_strtrim**    | :white_check_mark:  |
-| **ft_strsplit**   |   |
-| **ft_itoa**       |   |
+| **ft_strsplit**   | :white_check_mark:  |
+| **ft_itoa**       | :white_check_mark:  |
 | **ft_putchar**    | :white_check_mark:  |
 | **ft_putstr**     | :white_check_mark:  |
 | **ft_putendl**    | :white_check_mark:  |
