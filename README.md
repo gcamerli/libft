@@ -6,6 +6,28 @@
 
 C functions library allowed for 42 projects.
 
+### **Usage**
+
+To compile the static library run:
+
+```bash
+$ make
+```
+
+To use `libft.a` as a static library export the `$PATH` in your rc file.
+
+**Example**
+
+If your libft dir is in `$HOME` add to your rc file this line:
+
+```bash
+export LIBFT=$HOME/libft
+```
+
+### **Wiki**
+
+Check the [wiki](https://github.com/gcamerli/libft/wiki) for a detailed description of each part.
+
 ![Part 1](images/part_1.png)
 
 | Function        |        Status      |
