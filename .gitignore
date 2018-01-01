@@ -1,0 +1,11 @@
+# Object files
+*.o
+
+# Object dir
+obj
+
+# Precompiled Headers
+*.gch
+
+# Libraries
+*.a
