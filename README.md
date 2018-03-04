@@ -101,6 +101,6 @@ Check the [wiki](https://github.com/gcamerli/libft/wiki) for a detailed descript
 | **ft_lstiter**    |  :white_check_mark: |
 | **ft_lstmap**     |  :white_check_mark: |
 
-### **CC License**
+### **License**
 
-This work is provided under the terms of this license: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+This work is published under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
